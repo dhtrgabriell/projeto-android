@@ -50,7 +50,8 @@ header > p {
     color: #ffffff;
     font-family: var(--font-padrao);
     font-size: 1.2em;
-    width: 500px;
+    margin: auto;
+    width: 30%;
     text-shadow: 2px 2px 0px #00000071;
 }
 
